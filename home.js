@@ -5,7 +5,7 @@ export default function homePage() {
         backgroundImage: "https://img.freepik.com/free-photo/restaurant-interior_1127-3394.jpg?semt=ais_hybrid",
         h1Text: "Welcome To Food Heaven",
         h3Text: "Indian, Continental, Chinese",
-        h6Text: "Built with JavaScript",
+        h6Text: "Enjoy your meal",
         buttonText: "Click Me",
     });
 }
